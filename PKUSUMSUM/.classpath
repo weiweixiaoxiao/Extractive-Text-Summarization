@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="PKUSUMSUM/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/eclipse-jee-luna-SR1-win32-x86_64/eclipse/workspaces/PKUSUMSUM/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="PKUSUMSUM.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="lib/nlp-lang-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_lucene4_plug.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/tree_split-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/lpsolve55j.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/weiboSummarization"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ MLexPageRank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/2016112698"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ILP"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IteratorModel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JGibbLDA-v.1.0"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JnaTest_V1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JsonWang"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LexPageRank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MainfoldRank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/openCvTest"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
